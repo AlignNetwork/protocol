@@ -4,7 +4,6 @@
 
 - [Smart Contracts Repo](https://github.com/alignnetwork/core-contracts)
 - [typescript SDK Repo](https://github.com/alignnetwork/align-sdk)
-- [Example Apps Repo]()
 - [Node reference implementation]()
 
 ### Introduction
